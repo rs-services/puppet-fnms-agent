@@ -1,0 +1,26 @@
+[Custom Install Settings]
+INSTALLMACHINEPOLICY = 1
+WAITFORPOLICY=1
+DEPLOYSERVERURL = http://$fnms_host/ManageSoftDL
+DISALLOWREBOOT = 1
+USAGEAGENT_DISABLE = False
+
+[Custom Uninstall Settings]
+
+[Common]
+
+[Launcher]
+
+[Tracker]
+
+[Schedule Agent]
+
+[Policy Client]
+
+[Uploader]
+
+[Selector]
+
+[NetSelector]
+
+[Usage Agent]

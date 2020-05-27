@@ -1,0 +1,3 @@
+MGSFT_BOOTSTRAP_DOWNLOAD=http://$fnms_host/ManageSoftDL/
+MGSFT_BOOTSTRAP_UPLOAD=http://$fnms_host/ManageSoftRL/
+MGSFT_RUNPOLICY=1

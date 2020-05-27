@@ -1,10 +1,10 @@
 {
-  "name": "rshade-puppet_fnms_agent",
+  "name": "flexera-puppet_fnms_agent",
   "version": "0.1.0",
   "author": "Flexera",
-  "summary": "",
+  "summary": "Flexera FNMS Agent Puppet Module",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/rs-services/puppet_fnms_agent",
   "dependencies": [
 
   ],
